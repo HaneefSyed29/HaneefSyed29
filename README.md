@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haneefsyed29&label=Profile%20views&color=0e75b6&style=flat" alt="haneefsyed29" /> </p>
 
-- 🔭 I’m currently working on **Shopnideas**
+- 🔭 I’m currently working on **Bootcoding**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Full-Stack Development**
 
-- 💬 Ask me about **Flutter, Android**
+- 💬 Ask me about **Web Development, Flutter, Android**
 
 - 📫 How to reach me **shaneef2905@gmail.com**
 
